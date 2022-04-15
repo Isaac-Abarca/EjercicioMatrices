@@ -1,5 +1,5 @@
 
-package ivan;
+package MatrizNumerosMayores;
 
 import java.util.Arrays;
 
@@ -7,7 +7,7 @@ import java.util.Arrays;
  *
  * @author abarc
  */
-public class Ivan {
+public class MatrizNumerosMayores {
     
     static int[] mayores = new int[4];
 
